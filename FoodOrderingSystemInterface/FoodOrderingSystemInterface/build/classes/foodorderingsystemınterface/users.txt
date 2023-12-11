@@ -1,0 +1,2 @@
+Bülent,bulent@mail.com,123,54321,Buca,12/12/2020
+Onur,onur.mail,321,54321,buca,12/12/2021

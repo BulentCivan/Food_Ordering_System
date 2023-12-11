@@ -1,0 +1,22 @@
+F,adana dürüm,13,Kervan Kebap
+F,urfa dürüm,13,Kervan Kebap
+F,tavuk şiş dürüm,13,Kervan Kebap
+F,et şiş dürüm,18,Kervan Kebap
+F,çöp şiş dürüm,18,Kervan Kebap
+F,çoban salata,8,Kervan Kebap
+F,mevsim salata,8,Kervan Kebap
+F,ezme,8,Kervan Kebap
+F,içli köfte,5,Kervan Kebap
+F,lahmacun,8,Kervan Kebap
+F,fındık lahmacun,4,Kervan Kebap
+F,fırında sütlaç,9,Kervan Kebap
+F,künefe,13,Kervan Kebap
+F,kaymaklı künefe,16,Kervan Kebap
+D,kola,3,Kervan Kebap
+D,sarı kola,3,Kervan Kebap
+D,zafer gazoz,4,Kervan Kebap
+D,ayran,3,Kervan Kebap
+D,şalgam,4,Kervan Kebap
+D,su,2,Kervan Kebap
+D,sade soda,2,Kervan Kebap
+D,meyveli soda,3,Kervan Kebap

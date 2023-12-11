@@ -1,0 +1,10 @@
+Battalbey Çiğköfte,çiğköfte dürüm,5,F
+Battalbey Çiğköfte,çiğköfte porsiyon,10,F
+Battalbey Çiğköfte,çiğköfte duble porsiyon,20,F
+Battalbey Çiğköfte,çiğköfte kilo,50,F
+Battalbey Çiğköfte,kola,3,D
+Battalbey Çiğköfte,ayran,3,D
+Battalbey Çiğköfte,şalgam,4,D
+Battalbey Çiğköfte,su,2,D
+Battalbey Çiğköfte,sade soda,2,D
+Battalbey Çiğköfte,meyveli soda,3,D
